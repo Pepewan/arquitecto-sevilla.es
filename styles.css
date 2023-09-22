@@ -1,3 +1,8 @@
+/* Estilo general de la página web */
 body {
     background-color: #f0f0f0;
+    font-family: "Roboto", sans-serif; /* Tipografia */
+    font-size: 24px; /* Tamaño de fuente */
+    font-weight: normal; /* Peso de la fuente */
+    font-style: normal; /* Estilo de la fuente */
 }
